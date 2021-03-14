@@ -1,15 +1,15 @@
 {
 	"inbounds": [{
-		"port": "8251",
+		"port": "8080",
 		"protocol": "vmess",
 		"settings": {
-			"clients": [ {"id": "7c0aceec-0c5d-4468-bf61-e22c65e9abbb",	"alterId": 16} ]
+			"clients": [ {"id": "41eeb1ea-e103-4588-8057-bd9ca4fa9452",	"alterId": 16} ]
 		},
 		"streamSettings": {
 			"network": "ws",
 			"security": "auto",
 			"wsSettings": {
-				"path": "/elecV2"
+				"path": "/BakAV2"
 			}
 		}
 	},{
@@ -18,9 +18,9 @@
        "settings": {
             "clients": [
                     {
-                        "id": "7c0aceec-0c5d-4468-bf61-e22c65e9abbb",
+                        "id": "ca0ec5f1-d18b-4fc3-a42d-2b8ee08adba4",
                         "level": 0,
-                        "email": "love@v2fly.org"
+                        "email": "BaGaYaRU"
                     }
                 ],
                 "decryption": "none"
